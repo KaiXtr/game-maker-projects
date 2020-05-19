@@ -7,8 +7,9 @@ Game information by date of creation:
 
   I've made this project for a old channel where I used to make
   Game Maker Studio tutorials, but I started using this project
-  to test another things and system I would implement later
-  in other games.
+  to test another things and systems I would implement later
+  in other games. Before this I've made Sonic Advance Adventure
+  and Hiko Labyrinth.
   
 * PONG REVOLUTION
 
@@ -32,7 +33,8 @@ Game information by date of creation:
 * ANYTHING
 
   I've made this in a time where I almost gave up of game creation,
-  developing games wasn't a thing of my routine, then I had a bad day
+  when I had lost all the project for Open Your World, somehow.
+  Developing games wasn't a thing of my routine, then I had a bad day
   and I was feeling really sad, then I created this game with no
   compromisse just to kill my time.
   
@@ -46,7 +48,8 @@ Game information by date of creation:
 
   I wanted to make a game that would be like Spore or Agar.io, then I
   created this game where the player control this nanoship in the size
-  of a quark, and it grows until it becomes a galaxy.
+  of a quark, and it grows until it becomes a galaxy. In this time I was
+  making Dungerouns and I started making small apps with Python.
   
 * SAPUCAIA FANTASY
 
