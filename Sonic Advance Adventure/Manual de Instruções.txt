@@ -1,0 +1,155 @@
+---------------------------------------------------------------------MANUAL DE INSTRUÇÕES-----------------------------------------------------------------------
+
+*Como abrir
+-ao baixar o jogo,procure no windows explorer o instalador,se achar abra-o.
+-o instalador irá perguntar seu idioma,selecione o seu idioma fluente.
+-leia a política de privacidade e os termos de uso do jogo,aceite e clique em avançar.
+-selecione outras coisas que quer baixar junto do jogo(manual,atalho).
+-clique em instalar e espere um pouco.
+-o jogo está instalado!procure o jogo nas pastas,abra-o e divirta-se!
+
+
+*Como jogar....................................................................................................................................................1
+
+
+Jogador 1                     |Jogador 2
+# A e D:mover o personagem    |# setas(esquerda e direita):mover o personagem
+# W:olhar para cima           |# seta(cima):olhar para cima
+# S:agachar                   |# seta(baixo):agachar
+# barra de espaço:pular       |# número zero(Num Lock):pular
+# shift:atacar                |# enter(Num Lock):atacar
+# enter:pausar                |# +(Num Lock):pausar
+
+*História......................................................................................................................................................2
+
+Sonic e seus amigos tiram umas merecidas férias depois de sua última aventura(Sonic Lost World),enquanto Dr.Eggman nada satisfeito decide se vingar.Eventualmente
+ele vê em ruínas a Egg Carrier e o Metal Sonic;assim ele tem a idéia de mais um plano para criar Eggmanlândia:reconstruír o Ovo da Morte,reviver o Metal Sonic,
+recuperar as Esmeraldas do Caos e prender bichinhos dentro de sua mais nova tropa de Badniks:a MKIII,mas além disso,ele estudou bastante sobre as esmeraldas do
+caos juntamente dos manuscritos gaia,descobrindo o real poder da Esmeralda Mestre e assim decidindo pegar ela também;e também quis separar os amigos do Sonic uns
+dos outros,visto que eles poderiam frustrar seus planos novamente.
+
+3 meses se passaram e muitas mudanças aconteceram,Tails estava melhorando o seu radar e o Tornado quando detectou sinais fortes vindo do espaço,Sonic não vê os
+outros amigos faz tempo,e Knuckles através de um Tsunami descobriu que a Ilha dos Anjos caiu de novo,ele retorna trazendo uma carta que encontrou perto do altar
+da Esmeralda Mestre e Sonic começa a ler:
+
+"MUAHAHAHAHA!!!Será que conseguem mesmo me deter.Eu peguei a Esmeralda Mestre e Mandei seus amigos para bem longe!Mas eu sei onde estão ambos,Metal Sonic está
+ esperando por vocês!
+
+
+                                                                                                                                               Dr.Ivo Robotnik"
+
+Knuckles desconfia,poderia ser uma armadilha para pegar as 7 Esmeraldas do Caos deles.Mas sonic faria qualquer coisa pelos seus amigos(Sonic Generations)
+e Eggman está com a Esmeralda Mestre,podendo criar algo pior.Então mais uma aventura surge para o nosso ouriço azul...
+
+*Personagens & Habilidades.....................................................................................................................................3
+#Sonic The Hedgehog:
+
+*pulo-aperte a barra de espaço e sonic irá dar um giro em pleno ar.nessa forma você pode destruir badniks,monitores e paredes frágeis.
+*spin-aperte o S quando estiver andando ou correndo e sonic irá girar destruindo o que estiver em seu alcance.
+*ataque-aperte shift e sonic irá dar duas cambalhotas,bom para destruir caixas e paredes.
+*rasteira-aperte shift duas vezes sequidas para sonic dar uma rasteira,ótima para passar em lugares pequenos.
+*ataque perseguidor-aperte a barra de espaço quando estiver no ar e sonic irá atacar o que estiver por perto,caso cotrário ele só irá ganhar um bom impulso.
+*spin dash-quando estiver agachado,aperte espaço para sonic pegar impulso,aperte várias vezes para aumentar a velocidade e solte o S para sonic correr com o spin
+           ativado.
+*pell out-parecido com o spin dash,mas para aumentar a velocidade precisa segurar a barra e quando solta corre com o spin desativado.
+*impulso-quando encher a barra de turbo,ao apertar shift,o personagem fica invencível e veloz por um curto tempo.
+
+Level Ups
+*Ancient Light:uma luz antiga e misteriosa que dão a habilidade do ancient light,agache-se e aperte o botão de ataque para executá-lo,sonic irá destruir todos 
+               os badniks que estiverem por perto.
+
+
+
+#Miles "Tails" Prower:
+
+*pulo-aperte a barra de espaço e tails irá dar um giro em pleno ar.nessa forma você pode destruir badniks,monitores e paredes frágeis.
+*spin-aperte o S quando estiver andando ou correndo e tails irá girar destruindo o que estiver em seu alcance.
+*ataque-aperte shift e tails irá atacar com seus rabos,bom para destruir caixas e paredes.
+*voô-aperte a barra de espaço quando estiver no ar e tails irá voar,bom para alcançar lugares altos,mas o seu fôlego é de 10 segundos.
+*spin dash-quando estiver agachado,aperte espaço para tails pegar impulso,aperte várias vezes para aumentar a velocidade e solte o S para sonic correr com o spin
+           ativado.
+*impulso-quando encher a barra de turbo,ao apertar shift,o personagem fica invencível e veloz por um curto tempo.
+
+
+
+
+
+
+*HUD...........................................................................................................................................................4
+                                                                                     _________________________________________________
+ #-contador de pontos:são obtidos quando derrota um badnik,destrói um monitor ou     |#| | | | | | | | | | | | | | | | | | | | | | | |
+   executa manobras.                                                                 | |*| |&|%|@| | | | | | | | | | | | | | | | |=| |
+                                                                                     | | |¨|¨|¨|¨| | | | | | | | | | | | | | | | | | |
+ *-contador de anéis:mostra a quantidade de anéis que você já pegou,sendo que        | | | | | | | | | | | | | | | | | | | | | | | | |
+   quando encosta em um badnik o contador volta a zero.                              | | | | | | | | | | | | | | | | | | | | | | | | |
+                                                                                     | | | | | | | | | | | | | | | | | | | | | | | | |
+ &-contador de centésimos.                                                           | | | | | | | | | | | | | | | | | | | | | | | | |
+                                                                                     | | | | | | | | | | | | | | | | | | | | | | | | |
+ %-contador de segundos.                                                             | | | | | | | | | | | | | | | | | | | | | | | | |
+                                                                                     | | | | | | | | | | | | | | | | | | | | | | | | |
+ @-contador de minutos:se chegar a zero você morre e perde uma vida.                 | | | | | | | | | | | | | | | | | | | | | | | | |
+                                                                                     | |+| | | | | | | | | | | | | | | | | | | | |!| |
+ ¨-barra de turbo:ela é enchida por orbs,quando cheia você pode usar o turbo.        | | | | | | | | | | | | | | | | | | | | | | | | |
+                                                                                     -------------------------------------------------
+ +-contador de vidas:conta a quantidade de vidas que possui.
+
+ =-ícone de habilidade:mostra o tipo de habilidade do seu parceiro.                                                                                  
+ 
+ !-ícones de animais:mostra os animais que você já pegou na fase.
+
+
+
+
+
+
+
+*Items.........................................................................................................................................................5
+#Anel:lhe protege dos badniks e serve como dinheiro,ao encostar em um badnik,o número de aneis que você pegou será lançado para fora,você pode recuperar alguns.
+      se coletar 100 ou 200 aneis você ganha uma vida extra.no final de cada fase\missão,serão computados 100 pontos a cada anel que você possui,nas HUBs,você
+      pode gastar os aneis em itens.
+
+#Orbs:elas surgem quando você destrói um badnik,elas servem para aumentar a barra de turbo
+
+#Anéis Vermelhos:são cinco por fase e você as encontra em "mini-desafios" do ato,elas liberam conceitos de arte,biografias,sons de teste e cutscenes.
+
+#Animais Bebês:surgem quando destrói um badnik,são diferenciados pelo badnik que os prendeu e servem para personalizar e aumentar algumas habilidades do seu
+               Chao.
+
+#Emblemas:se pela primeira vez você fechar um ato\missão,ganhar uma corrida de chao na primeira posição,ganhar um mini-jogo ou ganhar rank A em todas as fases
+          de uma zona,você ganhará um emblema no final da fase,elas liberam conteúdo secreto no jogo!
+
+
+
+
+
+
+
+
+*Badniks.......................................................................................................................................................6
+#Motobug:badnik com aparência de joaninha;anda sempre para frente e aumenta a velocidade quando nota sua presença,ele abriga um gambá.
+
+#Crabmeat:badnik com aparência de caranguejo;anda para a esquerda e direita e atira duas bolas de energia quando nota sua presença,ele abriga um esquilo.
+
+#Stinger:badnik com aparência de abelha;voa para a esquerda e direita e atira um projétil quando nota sua presença,ele abriga um flickie(passáro).
+
+#Kiki:badnik com aparência de macaco;ele fica pendurado em palmeiras e árvores subindo e descendo e atirando bombas,ele abriga um macaco.
+
+#Batbrain:badnik com aparência de morcego;apenas fica voando,parado no ar,ele abriga um coelho.
+
+#Rhinotank:badnik com aparência de rinoceronte;ele apenas anda de um lado para o outro,ele abriga um canguru.
+
+#Leon:badnik com aparência de camaleão;ele pode escalar paredes e ataca com sua língua comprida,ele abriga um leão.
+
+#Chopper:badnik com aparência de piranha;ele salta da água e ataca de surpresa,ele abriga um gorila.
+
+#Caterkiller:badnik com aparência de centopéia,ele voa em "zig-zag" e cada um de seus segmentos pode ser destruído,ele abriga um elefante.
+
+#Kero Kero:badnik com aparência de sapo,ele salta de um lado para o outro,ele abriga um coala.
+
+#Turtloid:badnik com aparência de tartaruga,ele fica parado,voando no ar,mas é possível subir nele e em cima dele tem uma tartaruguinha que controla seus tiros,
+          ele abriga uma tartaruga.
+
+#Balkiry:badnik com aparência de pássaro,ele passa raspando no céu e o único jeito de vencê-lo e pulando na hora certa,ele abriga um pássaro colorido.
+
+#Clucker:badnik com aparência de galinha,fica sentado em uma cabine atirando e para derrotá-lo precisa atirar nele também,ele abriga uma galinha.
+
